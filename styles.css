@@ -1,0 +1,121 @@
+body {
+  background-size: 100%;
+  text-align: center;
+  background-color: #283149;
+  background-image: url(/images/giphy.gif)
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+
+.w {
+background-image: url('/images/zild.jpg');
+
+}
+
+.a {
+  background-image: url('/images/always.png');
+
+}
+
+.s {
+  background-image: url('/images/bobby-caldwell.jpg');
+
+}
+
+.d {
+  background-image: url('/images/glue.jpg');
+
+}
+
+.j {
+  background-image: url('/images/mac.jpg');
+
+}
+
+.k {
+  background-image: url('/images/jinji.jpg');
+
+}
+
+.l {
+  background-image: url('/images/willis.jpg');
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  background-size: 100%;
+}
+
+button.drum {
+  text-indent: -9999px;
+}
+
+.refresh{
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  width: 100%;
+  height: 100%;
+  font-size: 2rem;
+}
+
+.reset {
+  height: 10%;
+  width: 10%;
+  font-family: 'Arvo', cursive;
+  font-weight: 900;
+  font-size: 1rem;
+  color: #283149;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+}
+
+i{
+  width: 2%;
+}
+
